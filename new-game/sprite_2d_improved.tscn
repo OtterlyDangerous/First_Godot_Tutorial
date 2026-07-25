@@ -1,0 +1,8 @@
+[gd_scene format=3 uid="uid://be6u0dlq0u2a0"]
+
+[ext_resource type="Texture2D" uid="uid://xb5n4088hw6r" path="res://icon.svg" id="1_of6jf"]
+[ext_resource type="Script" uid="uid://w74ani3ifp4r" path="res://sprite_2d_improved.gd" id="1_orhut"]
+
+[node name="Sprite2DImproved" type="Sprite2D" unique_id=1863619077]
+texture = ExtResource("1_of6jf")
+script = ExtResource("1_orhut")
